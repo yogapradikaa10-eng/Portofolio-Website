@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://yogapradikaa10-eng.github.io/Portofolio-Website/)p/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://yogapradikaa10-eng.github.io/Portofolio-Website/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
