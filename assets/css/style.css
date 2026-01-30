@@ -194,7 +194,8 @@ header .navbar ul li a:hover {
   left: 0;
   height: 100%;
   width: 100%;
-  background: #ffff;
+  background: transparent;
+  z-index: 0;
 }
 .home::before {
   content: "";
